@@ -4,7 +4,8 @@ cmd控制台中运行：
 ```
 pip install vpython
 ```
-## cmd中运行 **单摆.py**
+## 运行 **单摆.py**
+cmd控制台中运行：
 ```
 python 单摆.py
 ```
